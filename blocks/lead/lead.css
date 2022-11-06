@@ -1,6 +1,6 @@
 .lead {
-    margin: 56px 148px 0;
-    max-width: 984px;
+    margin: 56px auto 0;
+    width: 984px;
     height: 1005px;
     border: 1px solid yellow;
 }

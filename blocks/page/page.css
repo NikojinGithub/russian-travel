@@ -1,6 +1,6 @@
 .page {
     background-color: #2A2C2F;
-    height: 6875px;
+    /*height: 6875px;*/
     min-width: 320px;
     max-width: 1600px;   /*1600*/
     margin: 0 auto;

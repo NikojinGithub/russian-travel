@@ -1,5 +1,6 @@
 .places__image {
-    width: 460px;
+    /*width: 460px;*/
+    width: 100%;
     height: 460px;
     /*grid-row-start: span 2;*/
     /*margin-top: 48px;*/
