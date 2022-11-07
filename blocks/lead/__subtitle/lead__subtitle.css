@@ -11,3 +11,10 @@
   color: #FFFFFF;
   /*border: 1px solid yellow;*/
 }
+
+@media screen and (max-width: 1024px) {
+  .lead__subtitle {
+  margin: 32px 172px 56px;
+  }
+ 
+}

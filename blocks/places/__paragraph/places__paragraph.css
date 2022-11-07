@@ -8,6 +8,9 @@
   color: white;
   margin-bottom: 26px;
   margin-top: 0;
-  /*width: 484px;
-  min-height: 145px;*/
+  width: 100%
+  /*min-height: 145px;*/
+}
+.places__paragraph:last-child {
+  margin-bottom: 0;
 }

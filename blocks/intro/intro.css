@@ -2,6 +2,13 @@
     width: 690px;
     min-height: 429px;
     /*border: 1px solid red;*/
-    margin: 92px 442px 0 148px;
-    padding: 0;
+    margin: 92px 442px 0 148px; /*148*/
+}
+
+
+@media screen and (max-width: 1024px) {
+    .intro {
+     margin: 92px 286px 0 48px;
+    }
+    
 }

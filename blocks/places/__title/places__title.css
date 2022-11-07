@@ -1,5 +1,6 @@
 .places__title {
-  width: 460px;
+  /*width: 460px;*/
+  width: 100%;
   min-height: 76px;
   font-family: Inter;
   font-size: 72px;
