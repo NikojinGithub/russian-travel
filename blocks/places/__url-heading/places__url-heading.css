@@ -3,9 +3,17 @@
   font-family: Inter;
   font-size: 12px;
   font-weight: 400;
-  line-height: 12px;
+  line-height: 20px;
   letter-spacing: 2px;
   text-align: left;
   margin-bottom: 12px;
   width: 100%;
 }
+
+@media screen and (width: 768px) {
+  .places__url-heading {
+    line-height: 12px;
+  }
+  
+}
+

@@ -14,7 +14,12 @@
 
 @media screen and (max-width: 1024px) {
   .lead__subtitle {
-  margin: 32px 172px 56px;
+  margin: 32px 144px 56px;         /*Было 172 по середине*/
   }
  
+}
+@media screen and (min-width: 768px) and (max-width: 923px) {
+  .lead__subtitle {
+    margin: 32px 64px 56px;
+  }
 }

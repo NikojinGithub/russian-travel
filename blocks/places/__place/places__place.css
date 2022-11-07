@@ -16,3 +16,11 @@
     gap: 48px 32px;
   } 
 }
+
+@media screen and (max-width: 768px) {
+  .places__place {
+    gap: 48px 28px; 
+    min-height: 434px;
+  }
+  
+}
