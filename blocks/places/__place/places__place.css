@@ -2,7 +2,7 @@
   width: 984px;
   min-height: 584px;
   margin: 0 auto 0;
-  border: 1px solid red;
+  /*border: 1px solid red;*/
   display: grid;
   grid-template-columns: 460px 484px;
   grid-template-rows: minmax(min-content, max-content) 1fr;
