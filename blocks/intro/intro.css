@@ -29,5 +29,6 @@
  .intro {
     margin: 64px 16px 0;
     width: 288px;
+    min-height: 754px;
  }    
 }
