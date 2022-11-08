@@ -5,11 +5,22 @@
   line-height: 28px;
   letter-spacing: 0em;
   text-align: right;
-  margin-top: 18px;
+  margin: 0 0 0 18px;
   color: #FFFFFF;
   text-decoration: none;
+  display: flex;
+  align-items: flex-end;
+  /*gap: 18px;*/
+  /*padding:0;*/
+  padding: 0;
+  list-style-type: none;
 
 }
+
+.header__lang-link:hover {
+  opacity: .8;
+}
+
 
 @media screen and (max-width: 320px) {
   .header__lang-link {  

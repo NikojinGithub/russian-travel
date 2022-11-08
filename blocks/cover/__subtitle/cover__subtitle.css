@@ -11,14 +11,14 @@
   margin: 0 412px 245px;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1185px) {
   .cover__subtitle {
     margin: 0 332px 195px;
   }
   
 }
 
-@media screen and (min-width: 768px) and (max-width: 1024px) {
+@media screen /*and (min-width: 768px)*/ and (max-width: 1024px) {
   .cover__subtitle {
     margin: 0 auto 115px;
   }

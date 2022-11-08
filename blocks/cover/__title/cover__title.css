@@ -13,13 +13,13 @@
   min-height: 152px;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1185px) { /*1024*/
   .cover__title {
     margin: 195px 232px 32px;
   }
   
 }
-@media screen and (min-width: 768px) and (max-width: 1023px) {
+@media screen /*and /*(min-width: 768px)*/ and (max-width: 1023px) {  /*1023*/
   .cover__title {
     margin: 115px 104px 32px;
   }
