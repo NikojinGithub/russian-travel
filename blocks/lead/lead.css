@@ -2,7 +2,7 @@
     margin: 56px auto 0;
     max-width: 984px;
     min-height: 1005px;
-    /*border: 1px solid yellow;*/
+    border: 1px solid yellow;
 }
 
 @media screen and (max-width: 1024px) {
@@ -19,4 +19,13 @@
     min-height: 862px;
     margin: 48px 0 0 0;
   }
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .lead {
+    max-width: 320px;
+    min-height: 406px;
+    margin: 48px 2px 0;
+  }
+  
 }

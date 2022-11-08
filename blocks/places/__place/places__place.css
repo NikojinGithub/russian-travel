@@ -24,3 +24,11 @@
   }
   
 }
+
+@media screen and (min-width: 320px) and (max-width: 585px) {
+  .places__place {
+    grid-template-columns: min-content;
+    grid-template-rows: fit-content(484px) minmax(min-content, max-content) fit-content(460px);
+
+  }
+}

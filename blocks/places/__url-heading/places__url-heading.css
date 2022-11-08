@@ -17,3 +17,10 @@
   
 }
 
+@media screen and (min-width: 320px) and (max-width: 585px) {
+  .places__url-heading {
+  line-height: 12px;
+  margin: 0 16px 12px;
+  width: 288px;
+  }
+}
