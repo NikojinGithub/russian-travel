@@ -50,7 +50,7 @@
     .cover {
         width: 320px;
         height: 200px;
-        margin: 66px 0 0;
+        margin: 66px auto 0;
 
     }
 }
