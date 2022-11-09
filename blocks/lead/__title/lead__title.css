@@ -1,5 +1,5 @@
 .lead__title {
-  font-family: 'Inter';
+  font-family: 'Inter', Arial, sans-serif;
   font-style: normal;
   font-weight: 900;
   font-size: 96px;
@@ -7,29 +7,30 @@
   text-align: center;
   color: #FFFFFF;
   max-width: 720px;
-  min-height: 200px;
+  /*min-height: 200px;*/
   margin: 0px 132px 0;
-/*border: 1px solid blue;*/
+  /*border: 1px solid blue;*/
   padding: 0;
 }
 
 @media screen and (max-width: 1024) {
-    .lead__title {
-      margin: 0 104px 0;   
-    }   
+  .lead__title {
+    margin: 0 104px 0;   
+  }   
 }
 
 @media screen /*and (min-width: 768px)*/ and (max-width: 923px) {
-    .lead__title {
-      margin: 0 24px 0;
-    }
+  .lead__title {
+    margin: 0 24px 0;
+  }
 }
+
 @media screen and (min-width: 320px) and (max-width: 767px) {
-    .lead__title {
-      margin: 0 auto 0;
-      font-size: 40px;
-      letter-spacing: 0em;
-      min-height: 88px;
-      line-height: 44px;
-    }
+  .lead__title {
+    margin: 0 auto 0;
+    font-size: 40px;
+    letter-spacing: 0em;
+    /*min-height: 88px;*/
+    line-height: 44px;
+  }
 }

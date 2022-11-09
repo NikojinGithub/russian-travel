@@ -1,5 +1,5 @@
 .header__list-link {
-text-decoration: none;
+  text-decoration: none;
   display: flex;
   align-items: flex-end;
   padding: 0;
